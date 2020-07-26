@@ -8,6 +8,8 @@ export default function InputElement({ handleSetExpenses }) {
     handleSetExpenses({ name, cost })
   }
 
+  //   making a comment
+
   return (
     <div>
       <h1>Add New Transaction</h1>
